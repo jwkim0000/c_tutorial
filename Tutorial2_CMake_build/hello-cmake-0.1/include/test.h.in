@@ -1,0 +1,7 @@
+#ifndef __MY_TEST_HEADER__
+
+#define MY_PROJECT_NAME		"@PROJECT_NAME@"
+#define MY_COLOR_CONFIG		"@FONT_COLOR@"
+#define MY_AUTHOR_NAME		"@AUTHOR_NAME@"
+
+#endif /* __MY_TEST_HEADER__ */
